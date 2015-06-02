@@ -170,10 +170,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer es un tema de arranque gratuito creado por Start Bootstrap . La descarga incluye los archivos de origen completos incluyendo HTML , CSS y JavaScript , así como las hojas de estilo MENOS opcionales para una fácil personalización .</p>
+                    <p>Lorem ipsum dolor sit amet, ornare efficitur velit. Integer eget sem velit. Phasellus non varius neque. Quisque vitae quam est. Vestibulum eget dictum ligula, ac blandit sapien. Proin vel lacus nec augue scelerisque tincidunt eu vitae mauris. Praesent nec sem sit amet urna cursus bibendum. Nunc rhoncus efficitur est, a mattis nibh tempus a. Nunc sed nibh vel nulla efficitur rutrum.</p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Tanto si eres un estudiante en busca de mostrar su trabajo , buscando un profesional para atraer a los clientes , o un artista gráfico que mira para compartir sus proyecto , esta plantilla es el punto de partida perfecto!</p>
+                    <p> Lorem ipsum dolor sit amet, ornare efficitur velit. Integer eget sem velit. Phasellus non varius neque. Quisque vitae quam est. Vestibulum eget dictum ligula, ac blandit sapien. Proin vel lacus nec augue scelerisque tincidunt eu vitae mauris. Praesent nec sem sit amet urna cursus bibendum. Nunc rhoncus efficitur est, a mattis nibh tempus a. Nunc sed nibh vel nulla efficitur rutrum.</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
@@ -269,8 +269,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Acerca de Freelancer</h3>
-                        <p>Freelance es un libre para usar , de código abierto Bootstrap tema creado por <a href="#">Start Bootstrap</a>.</p>
+                        <h3>consequat non fringilla sed</h3>
+                        <p> Lorem ipsum dolor sit amet,<a href="#">consequat non fringilla sed</a>.</p>
                     </div>
                 </div>
             </div>
@@ -309,7 +309,7 @@
                             <h2>Proyecto</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>consequat non fringilla sed<a href="#">consequat non fringilla sed</a>consequat non fringilla sed!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="#">Start Bootstrap</a>
@@ -346,7 +346,7 @@
                             <h2>Proyecto</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>ULorem ipsum dolor sit amet,y <a href="#">Lorem ipsum dolor sit amet,</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="#">Start Bootstrap</a>
@@ -383,7 +383,7 @@
                             <h2>Proyecto</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Lorem ipsum dolor sit amet,</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="#">Start Bootstrap</a>
@@ -420,7 +420,7 @@
                             <h2>Proyecto</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Lorem ipsum dolor sit amet,</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="#">Start Bootstrap</a>
@@ -457,7 +457,7 @@
                             <h2>Proyecto</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Lorem ipsum dolor sit amet,</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="#">Start Bootstrap</a>
@@ -494,7 +494,7 @@
                             <h2>Proyecto</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="#">Lorem ipsum dolor sit amet,</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a href="#">Start Bootstrap</a>
