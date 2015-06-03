@@ -9,13 +9,13 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Template</title>
+    <title>Sheet</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/freelancer.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -37,7 +37,7 @@
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
+           <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -45,8 +45,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#page-top"></a>
-            </div>
-
+            </div> 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
@@ -54,31 +53,39 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Prtafolio</a>
+                        <a href="#inicio">Inicio</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">Nosotros</a>
+                        <a href="#portfolio">Portafolio</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Contactenos</a>
+                        <a href="#nosotros">Sobre mi</a>
+                    </li> 
+                    <li class="page-scroll">
+                        <a href="#blog">Blog</a>
+                    </li>              
+                    <li class="page-scroll">
+                        <a href="#cv">cv</a>
+                    </li>                   
+                    <li class="page-scroll">
+                        <a href="#contact">Contacto</a>
                     </li>
                 </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container-fluid -->
+            </div>            
+        </div>        
     </nav>
-
     <!-- Header -->
     <header>
-        <div class="container">
+        <div class="container" id="inicio">
             <div class="row">
                 <div class="col-lg-12">
                     <img class="img-responsive" id="img" src="img/code.png" alt="">
                     <div class="intro-text">
                         <span class="name"></span>
                         <hr class="star-light">
-                        <span class="skills">Desarrollador Web</span>
+                        <span class="skills">Yeffer Buitrago A</span>
+                        <hr class="#">
+                        <span class="skills">Desarrollador Back-End</span>
                     </div>
                 </div>
             </div>
@@ -159,8 +166,8 @@
         </div>
     </section>
 
-    <!-- About Section -->
-    <section class="success" id="about">
+    <!-- nosotros  -->
+    <section class="success" id="nosotros">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -175,11 +182,59 @@
                 <div class="col-lg-4">
                     <p> Lorem ipsum dolor sit amet, ornare efficitur velit. Integer eget sem velit. Phasellus non varius neque. Quisque vitae quam est. Vestibulum eget dictum ligula, ac blandit sapien. Proin vel lacus nec augue scelerisque tincidunt eu vitae mauris. Praesent nec sem sit amet urna cursus bibendum. Nunc rhoncus efficitur est, a mattis nibh tempus a. Nunc sed nibh vel nulla efficitur rutrum.</p>
                 </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
+               <!-- <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download">Punto</i> 
                     </a>
+                </div> -->
+            </div>
+        </div>
+    </section>
+
+    <!-- nosotros  -->
+     <section id="blog">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Blog</h2>
+                    <hr class="star-primary">
                 </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                       <!-- <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div> -->
+                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
+                    </a>
+                </div>       
+            </div>
+        </div>
+    </section>
+
+    <section class="success" id="cv">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Hoja de Vida</h2>
+                    <hr class="star-light">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-lg-offset-2">
+                    <p>Lorem ipsum dolor sit amet, ornare efficitur velit. Integer eget sem velit. Phasellus non varius neque. Quisque vitae quam est. Vestibulum eget dictum ligula, ac blandit sapien. Proin vel lacus nec augue scelerisque tincidunt eu vitae mauris. Praesent nec sem sit amet urna cursus bibendum. Nunc rhoncus efficitur est, a mattis nibh tempus a. Nunc sed nibh vel nulla efficitur rutrum.</p>
+                </div>
+                <div class="col-lg-4">
+                    <p> Lorem ipsum dolor sit amet, ornare efficitur velit. Integer eget sem velit. Phasellus non varius neque. Quisque vitae quam est. Vestibulum eget dictum ligula, ac blandit sapien. Proin vel lacus nec augue scelerisque tincidunt eu vitae mauris. Praesent nec sem sit amet urna cursus bibendum. Nunc rhoncus efficitur est, a mattis nibh tempus a. Nunc sed nibh vel nulla efficitur rutrum.</p>
+                </div>
+                <!--<div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="#" class="btn btn-lg btn-outline">
+                       <i class="fa fa-download">Punto</i> 
+                    </a>
+                </div> -->
             </div>
         </div>
     </section>
@@ -195,8 +250,6 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
-                    <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
@@ -249,7 +302,7 @@
                         <p>cra 78 #123a<br>Bogotá</p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Siguenos en</h3>
+                        <h3>Red Social</h3>
                         <ul class="list-inline">
                             <li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
@@ -268,10 +321,10 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="footer-col col-md-4">
+                    <!--<div class="footer-col col-md-4">
                         <h3>consequat non fringilla sed</h3>
                         <p> Lorem ipsum dolor sit amet,<a href="#">consequat non fringilla sed</a>.</p>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -533,7 +586,7 @@
     <script src="js/contact_me.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="js/freelancer.js"></script>
+    <script src="js/main.js"></script>
 
 </body>
 
